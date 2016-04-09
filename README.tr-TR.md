@@ -3,7 +3,7 @@
 JQuery düzeneğinizi geliştirecek basit ipuçlarının bir derlemesi.
 
 1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
-1. [Back to Top Button](#back-to-top-button)
+1. [Başa Dön Butonu](#başa-dön-butonu)
 1. [Preload Images](#preload-images)
 1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
 1. [Fix Broken Images Automatically](#fix-broken-images-automatically)
@@ -34,7 +34,7 @@ if (typeof jQuery == 'undefined') {
 ```
 
 
-### Back to Top Button
+### Başa Dön Butonu
 
 jQuery'deki `animate` ve `scrollTop` fonksiyonları ile harici eklentiler kullanmadan "sayfa başına dön" animasyonu gerçekleştirebilirsiniz:
 
