@@ -1,3 +1,7 @@
+## Languages
+1. [English](https://github.com/lacriment/jquery-tips-everyone-should-know/)
+1. [Türkçe](https://github.com/lacriment/jquery-tips-everyone-should-know/blob/master/README.tr-TR.md)
+
 # jQuery Tips Everyone Should Know
 
 A collection of simple tips to help up your jQuery game.
